@@ -28,7 +28,8 @@ Basic payment = 5 * 10 = 50
 Tax = 50 * 20% = 50 * 0.2 = 10
 
 
-Example 2:
+Example 2
+
 Enter rental data
 Car model: Civic
 Pickup (dd/MM/yyyy hh:mm): 25/06/2018 10:30
